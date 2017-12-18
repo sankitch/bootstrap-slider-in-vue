@@ -1,4 +1,4 @@
-# vue-study
+# bootstrap-slider-in-vue
 
 > A Vue.js project
 
